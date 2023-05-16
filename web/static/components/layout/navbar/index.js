@@ -88,7 +88,7 @@ export class LayoutNavbar extends CustomElement {
             url = ret.url;
             break;
           case 2:
-            url = "https://github.com/YaoShuwei/nas-tools-unlock/commits/master"
+            url = "https://github.com/KleinerSource/nastools-v3u/commits/master"
             break;
         }
         if (url) {
