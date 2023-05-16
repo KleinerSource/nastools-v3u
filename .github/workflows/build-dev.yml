@@ -47,4 +47,4 @@ jobs:
             linux/arm64
           push: true
           tags: |
-            ${{ secrets.DOCKER_USERNAME }}/nas-tools-v3u:latest-beta
+            ${{ secrets.DOCKER_USERNAME }}/nastools-v3u:latest-beta
